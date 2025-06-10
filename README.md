@@ -32,7 +32,7 @@ Ready for deployment
 ## How to Run
 
 1. Clone this repo  
-2. Create a `.env` file based on `.env.example`  
+2. Create a `.env` 
 3. Run: `npm install`  
 4. Start server: `npm start`
 
