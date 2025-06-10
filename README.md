@@ -38,9 +38,13 @@ Ready for deployment
 
 ## Deployment
 
-This app is deployed on Render.com.
+This backend app is deployed on Render.com.
 
 Link - [Split App Backend](https://split-app-backend-x4jd.onrender.com/)
+
+There is a basic frontend dashboard deployed on Netlify.com.
+
+Link - [Split App Dashboard](https://ysplit.netlify.app/)
 
 ## License
 
