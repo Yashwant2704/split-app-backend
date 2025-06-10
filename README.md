@@ -40,7 +40,7 @@ Ready for deployment
 
 This app is deployed on Render.com.
 
-Link - [text](https://split-app-backend-x4jd.onrender.com/)
+Link - [Split App Backend](https://split-app-backend-x4jd.onrender.com/)
 
 ## License
 
