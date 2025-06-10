@@ -38,7 +38,9 @@ Ready for deployment
 
 ## Deployment
 
-This app is ready for deployment on Render.com or Railway.
+This app is deployed on Render.com.
+
+Link - [text](https://split-app-backend-x4jd.onrender.com/)
 
 ## License
 
